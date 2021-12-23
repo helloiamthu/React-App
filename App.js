@@ -213,7 +213,14 @@ class App extends Component {
                             // onPress={() => this.props.navigation.navigate('login')}>
                             onPress={this.onPressLogin.bind(this)}>
                         </TouchableOpacity>
+<<<<<<< HEAD
                     </View>                         
+                    </View>
+                
+            
+                        
+                         
+>>>>>>> f5f070579c806fe00da3420fa24c3e1ee8b7a09b
                 
                     
                 </View>
